@@ -1,4 +1,3 @@
-# VERO
-LiDAR Operating System and Visualisation Tool
+Roboost V1 Codebase
 
-Useful Files ;)
+TODO
